@@ -4,6 +4,9 @@
   "workers_dev": true,
   "preview_urls": false,
   "compatibility_date": "2026-06-12",
+  "vars": {
+    "HELLO_FROM": "Cloudflare Workers"
+  },
   "observability": {
     "enabled": true,
     "head_sampling_rate": 1,
